@@ -1,0 +1,34 @@
+﻿
+input[type=text] {
+  width: 500%;
+  padding: 6px 10px;
+  margin: 7px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  margin-left:auto;  
+  margin-right:auto;  
+  
+}
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#GridView1  
+{  
+    margin-left:auto;  
+    margin-right:auto;  
+    width:800px;  
+    height:500px;  
+}  
