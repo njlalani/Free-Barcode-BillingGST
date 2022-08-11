@@ -7,3 +7,4 @@ keyysoft desktop application = keyysoft Lite Billing,
 keyysoft desktop application = keyysoft POS Billing,
 keyysoft desktop application = keyysoft GST Billing,
 http://keyysoft.ga , https://keyysoft.wordpress.com
+https://www.tallybarsoft.tk
