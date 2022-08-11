@@ -1,9 +1,9 @@
 # freebarcode.github.io
-njlalani = keyysoft.BarCode for .online Live hosted at https://bsite.net/lalani786,
+njlalani = keyysoft.BarCode for .online Live hosted at http://keyywebbarcode.somee.com 
 keyysoft online billing,barcode for .online Live hosted at https://keyysoft.in.net,
-keyysoft website = https://www.keyysoft.online (Video Demo),
-keyysoft website = https://www.keyysoft.tk (Video Demo),
+keyysoft website = http://www.tallybarsoft.in.net) (Video Demo),
+keyysoft website = http://tallybarsoft.ga) (Video Demo),
 keyysoft desktop application = keyysoft Lite Billing,
 keyysoft desktop application = keyysoft POS Billing,
 keyysoft desktop application = keyysoft GST Billing,
-http://keyysoft.ga
+http://keyysoft.ga , https://keyysoft.wordpress.com
